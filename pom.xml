@@ -13,6 +13,8 @@
   
   <properties>
     <app.entry>demo22.AppEntry</app.entry>
+	<maven.compiler.source>1.8</maven.compiler.source> 
+	<maven.compiler.target>1.8</maven.compiler.target>
 
   </properties>
 
