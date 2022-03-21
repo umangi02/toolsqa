@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Testing Tools Qa Web">
+	<test name="Regression">
+		<groups>
+			<run>
+				<include name="">/</include>
+				<include name="">/</include>
+			</run>
+		</groups>
+		<classes>
+			<class name="demo22.demo_new.Text" />
+			<class name="demo22.demo_new.FrameAndNestedFrameDemo" />
+		</classes>
+	</test>
+</suite>

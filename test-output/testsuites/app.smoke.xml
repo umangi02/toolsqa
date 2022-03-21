@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AppSmoke">
+	<test name="Test">
+		<classes>
+			 <class name="demo22.demo_new.Text" />
+			<class name="demo22.demo_new.FrameAndNestedFrameDemo"/>
+			<!-- <class name="co.nayan.c3.tests.app.annotations.CropAnnotationTest" />
+			<class name="co.nayan.c3.tests.app.recording.RecordingTest"/>
+			<class name="co.nayan.c3.tests.app.wallet.BonusTest"/>
+			<class name="co.nayan.c3.tests.app.annotations.JunkRecordTest" />
+			<class name="co.nayan.c3.tests.app.annotations.UndoAnnotationTest" />
+			<class name="co.nayan.c3.tests.app.profile.SwitchProfileTest"/>		 -->
+		</classes>
+	</test>
+</suite>
